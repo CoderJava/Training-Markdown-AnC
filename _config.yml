@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Yudi Setiawan
 language: en
 timezone: ''
 
@@ -93,12 +93,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Anisina
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 'git'
-  repo: 'https://github.com/CoderJava/trainingmarkdown.github.io.git'
-  branch: 'master'
-  message: 'Test Deploy Pertama'
+  type: git
+  repo: https://github.com/CoderJava/coderjava.github.io.git
+  branch: master
+  message: Test Deploy Kedua

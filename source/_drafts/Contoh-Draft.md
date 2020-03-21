@@ -1,4 +1,0 @@
----
-title: Contoh Draft
-tags:
----
