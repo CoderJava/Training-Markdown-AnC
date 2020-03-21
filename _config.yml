@@ -101,4 +101,4 @@ deploy:
   type: git
   repo: https://github.com/CoderJava/coderjava.github.io.git
   branch: master
-  message: Test Deploy Kedua
+  message: Deploy Tugas Markdown
